@@ -76,7 +76,7 @@
     "@babel/eslint-plugin": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
     "@babel/register": "^7.24.6",
-    "@definitelytyped/dtslint": "^0.0.182",
+    "@definitelytyped/dtslint": "^0.2.22",
     "@istanbuljs/nyc-config-babel": "3.0.0",
     "@types/node": "^20.14.2",
     "@typescript-eslint/parser": "^6.20.0",
